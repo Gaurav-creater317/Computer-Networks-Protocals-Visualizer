@@ -1,6 +1,6 @@
 # Welcome to our Computer Networks Protocals Visualizer Project
 
-## Project info
+## Project information
 
 **Live URL**: https://computernetworksprotocalsvisualizer.vercel.app/
 ## How can I edit this code?
